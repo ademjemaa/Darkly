@@ -1,0 +1,5 @@
+avoid using path like this http://127.0.0.1:8080/?page=../../../../../..
+
+
+
+map your routes properly and explicilty 

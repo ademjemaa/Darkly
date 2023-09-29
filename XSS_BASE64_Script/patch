@@ -1,0 +1,1 @@
+honestly, the whole website has the most horrible routing possible, and since the routes are mostly abusable, the whole controller part of the website should be reconstructed so that the website cannot be used as a bridge to execute code and traverse directories using simple url injections

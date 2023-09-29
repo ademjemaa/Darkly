@@ -1,0 +1,7 @@
+make sure you sanitize any user input that will affect outside ressources like a database
+
+
+make sure you avoid using raw SQL so that these attacks are never allowed
+
+
+

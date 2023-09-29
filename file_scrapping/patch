@@ -1,0 +1,5 @@
+make sure to manage file accessibility properly, or to simply have a different context for the files where the website has to communicate with another external service in order to get ressources that arent publically available for users
+
+robots.txt file isnt needed as it exposes some ressources, however that doesnt matter since there are vectors of attacks that can find hidden paths anyway
+
+auto scraping should be detectable too 

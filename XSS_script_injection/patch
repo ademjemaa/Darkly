@@ -1,0 +1,4 @@
+make sure to sanitize forms after the user submits them, and to check for any special characters on submition
+
+
+make sure to know what type of element you are rendering in html, so that text forms remain as text forms only and cannot contain different types of content like html 

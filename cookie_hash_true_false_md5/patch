@@ -1,0 +1,1 @@
+make sure the hashes that you use are not using cookies for access variables, instead generate proper jwt tokens and avoid using low encryption like md5

@@ -1,0 +1,4 @@
+make sure the website is always running https and to refuse http connections espescially for sensitive content
+
+
+otherwise admins wont be able to be cross verified using ssl certificates
